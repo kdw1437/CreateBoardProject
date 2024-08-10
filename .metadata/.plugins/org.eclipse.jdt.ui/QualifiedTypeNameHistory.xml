@@ -4,9 +4,9 @@
     <fullyQualifiedTypeName name="abs.BikeFactory"/>
     <fullyQualifiedTypeName name="abst.Button"/>
     <fullyQualifiedTypeName name="abst.TextArea"/>
-    <fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
     <fullyQualifiedTypeName name="model.MemberBean"/>
     <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
     <fullyQualifiedTypeName name="javax.naming.Context"/>
     <fullyQualifiedTypeName name="javax.sql.DataSource"/>
 </qualifiedTypeNameHistroy>

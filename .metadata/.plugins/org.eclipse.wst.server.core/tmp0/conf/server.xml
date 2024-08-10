@@ -169,7 +169,7 @@
       	<Resource auth="Container" driverClassName="oracle.jdbc.driver.OracleDriver" loginTimeout="10" maxWait="5000" name="jdbc/pool" password="1437" type="javax.sql.DataSource" url="jdbc:oracle:thin:@localhost:1521/orclpdb" username="OT"/>
       </Context>
       
-      </Host>
+      <Context docBase="C:\Users\JURO_NEW\Desktop\JSP_lecture\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\Model2Board" path="/Model2Board" reloadable="true" source="org.eclipse.jst.jee.server:Model2Board"/></Host>
     </Engine>
   </Service>
 </Server>
