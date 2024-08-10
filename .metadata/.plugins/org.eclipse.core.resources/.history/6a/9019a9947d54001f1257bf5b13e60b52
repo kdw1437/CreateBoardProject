@@ -1,0 +1,17 @@
+package model;
+
+public class BoardBean {
+	
+	private int num;
+	private String writer;
+	private String email;
+	private String subject;
+	private String password;
+	private String
+	private int 
+	private int 
+	private int 
+	private int 
+	private String
+	
+}

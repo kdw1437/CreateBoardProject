@@ -1,0 +1,18 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<!DOCTYPE html>
+<html>
+<body>
+
+	<center>
+	<table width="400">
+		<tr height="50">
+		<td align="center" width="150"> ¾ÆÀÌµð </td>
+		<td width="250"><input type="text" name="id"></td>
+		</tr>
+	
+	</table>
+	
+	</center>
+</body>
+</html>

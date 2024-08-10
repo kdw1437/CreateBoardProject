@@ -1,0 +1,28 @@
+<%@page import="model.MemberBean"%>
+<%@page import="model.MemberDAO"%>
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+
+	<!-- 1. 데이터 베이스에서 한 회원의 정보를 가져옴 2. table태그를 이용하여 화면에 회원의 정보를 출력 -->
+<%
+
+	String id = request.getParameter("id");	//memberlist id를 받아줌
+
+	MemberDAO mdao = new MemberDAO();
+	MemberBean mbean = mdao.oneSelectMember(id); //해당하는 id의 회원정보를 리턴받아야한다.
+
+%>	
+
+<Center>
+<h2> 회원 정보 보기 </h2>
+</Center>
+	<table width></table>
+</body>
+</html>

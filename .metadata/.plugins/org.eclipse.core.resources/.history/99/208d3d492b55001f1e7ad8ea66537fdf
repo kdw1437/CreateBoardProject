@@ -1,0 +1,14 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<!DOCTYPE html>
+<html>
+<body>
+
+<%
+	request.setCharacterEncoding("euc-kr");
+
+%>
+<!-- 사용자 데이터를 읽어드리는 빈클래스 설정 -->
+	
+</body>
+</html>

@@ -1,0 +1,15 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<!DOCTYPE html>
+<html>
+<body>
+	<center>
+	<h2>회원 가입 양식</h2>
+	<form action="Mproc2" method="post"></form>
+	
+	
+	</center>
+
+
+</body>
+</html>

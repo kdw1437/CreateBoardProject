@@ -1,0 +1,11 @@
+import Sam.SamFactory;
+import abs.BikeFactory;
+
+public class Main {
+	public static void main(String[] args) {
+		BikeFactory factory = new SamFactory();
+		factory.createBody();
+		factory.createWheel();
+		
+}
+}

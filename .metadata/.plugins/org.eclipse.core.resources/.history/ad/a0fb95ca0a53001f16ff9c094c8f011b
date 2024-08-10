@@ -1,0 +1,27 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<!DOCTYPE html>
+<html>
+<body>
+
+	<center>
+	<h2> 회원 가입 </h2>
+	<form action="RequestJoinProc.jsp" methods="post">
+	
+	<table width="500" border="1">
+	<tr height="50">
+		<td width="150" align="center"> 아이디 </td>
+		<td width="350"> <input type="text" name="id">
+	
+	
+	
+	
+	
+	
+	</table>
+	
+	</form>
+	</center>
+
+</body>
+</html>

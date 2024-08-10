@@ -1,0 +1,13 @@
+package model;
+
+public class MemberBean {
+	
+	private String id;
+	private String password;
+	private String email;
+	private String tel;
+	private String address;
+	
+	
+	
+}

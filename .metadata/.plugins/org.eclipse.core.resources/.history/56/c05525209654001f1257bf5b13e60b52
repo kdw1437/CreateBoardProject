@@ -1,0 +1,6 @@
+package Sam;
+import abs.BikeFactory;
+
+public class SamFactory implements BikeFactory{
+
+}

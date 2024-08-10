@@ -1,0 +1,12 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<!DOCTYPE html>
+<html>
+<body>
+	
+	<center>
+	<h2> ·Î±×ÀÎ </h2>
+	<form action="LoginProc.do"></form>
+	</center>
+</body>
+</html>

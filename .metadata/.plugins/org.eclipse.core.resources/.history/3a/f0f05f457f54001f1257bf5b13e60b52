@@ -1,0 +1,19 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<!DOCTYPE html>
+<html>
+<body>
+
+<center>
+<h2> 게시글 쓰기 </h2>
+
+<form action="BoardWriteProc.jsp" method="post">
+	<table>
+	
+	
+	</table>
+</form>
+</center>
+
+</body>
+</html>

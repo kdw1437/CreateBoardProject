@@ -1,0 +1,19 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<!DOCTYPE html>
+<html>
+<body>
+	<!-- Top -->
+	<table width="800">
+		<tr height="100">
+		<!-- ·Î°íÀÌ¹ÌÁö -->
+		<td colspan="2" align="center">
+		<img alt="" src="img/a.jpg" width="200" height="70">
+		</td>
+		<td colspan="4" align="center">
+		<font size="10"> ³¶¸¸ Ä·ÇÎ</font>
+		</td>
+		</tr>
+	</table>
+</body>
+</html>
