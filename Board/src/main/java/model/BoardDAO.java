@@ -83,7 +83,7 @@ public class BoardDAO {
 		
 		try {
 			//쿼리 준비
-			String sql = "select * from (select A.*, Rownum Rnum from (select * from board order by ref desc ,re_step asc)A) "
+			String sql = "select * from (select A.*, Rownum Rnum from (select * from board order by ref desc ,re_level asc)A) "
 					+ "where Rnum >= ? and Rnum <= ?";
 			
 			//쿼리를 실행할 객체 선언
