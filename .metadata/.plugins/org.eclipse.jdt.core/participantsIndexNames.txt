@@ -3,6 +3,8 @@ C:\Users\JURO_NEW\Desktop\JSP_lecture\.metadata\.plugins\org.eclipse.jst.jsp.cor
 \CookieSession\src\main\java
 C:\Users\JURO_NEW\Desktop\JSP_lecture\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1615344236.index
 \Board\src\main\java
+C:\Users\JURO_NEW\Desktop\JSP_lecture\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3264361095.index
+\Model2Board\src\main\java
 C:\Users\JURO_NEW\Desktop\JSP_lecture\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1112296857.index
 \JSP2\src\main\java
 C:\Users\JURO_NEW\Desktop\JSP_lecture\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3320481498.index

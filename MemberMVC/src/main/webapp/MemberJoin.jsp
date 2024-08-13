@@ -6,7 +6,7 @@
 
 	<center>
 	<h2> 회원 가입 </h2>
-	<form action="proc.do" methods="post">
+	<form action="proc.do" method="post">
 	
 	<table width="500" border="1">
 	<tr height="50">
