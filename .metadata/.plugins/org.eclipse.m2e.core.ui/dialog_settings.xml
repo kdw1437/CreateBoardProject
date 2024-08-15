@@ -2,6 +2,9 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\JURO_NEW\Desktop\spring_github\MyBoard_Java-Spring-main\MyBoard_Java-Spring-main\MyBoard"/>
+			<item value="C:\Users\JURO_NEW\Desktop\spring_github\spring-board-master\spring-board-master"/>
+			<item value="C:\Users\JURO_NEW\Desktop\spring_github"/>
 			<item value="C:\Users\JURO_NEW\Desktop\SpringFrameworkBasicForm\SpringFrameworkBasicForm"/>
 			<item value="C:\Users\JURO_NEW\Desktop\JSP_lecture\workspace\JSP1"/>
 		</list>
@@ -16,6 +19,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\JURO_NEW\Desktop\JSP_lecture\InitDestroy\src\main\java\kr\co\softcampus\config\BeanConfigClass.java"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -62,13 +66,21 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="MyBatis"/>
+			<item value="SpringJDBC"/>
+			<item value="AOPJava"/>
+			<item value="ExecutionDirective"/>
+			<item value="AOP"/>
+			<item value="ComponentAutowired"/>
+			<item value="ComponentSetting"/>
+			<item value="Component"/>
+			<item value="JSR250"/>
+			<item value="AnnotationBean"/>
+			<item value="JavaDI"/>
+			<item value="InitDestroy"/>
 			<item value="SetterDI"/>
 			<item value="ConstructorDI"/>
 			<item value="BeanPostProcessor"/>
-			<item value="BeanLifeCycle"/>
-			<item value="BeanCreate"/>
-			<item value="IoC"/>
-			<item value="SpringBasic"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>

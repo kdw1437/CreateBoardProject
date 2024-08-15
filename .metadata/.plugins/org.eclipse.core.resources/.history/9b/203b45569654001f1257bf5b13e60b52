@@ -1,6 +1,0 @@
-package abs;
-
-public interface Wheel {
-
-		public void 구름();
-}

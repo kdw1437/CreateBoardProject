@@ -1,7 +1,0 @@
-package linux;
-
-import abst.GuiFac;
-
-public class LinuxGuiFac implements GuiFac{
-
-}

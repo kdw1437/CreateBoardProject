@@ -1,5 +1,0 @@
-package abst;
-
-public interface GuiFac {
-
-}
